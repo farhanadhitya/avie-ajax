@@ -1,11 +1,11 @@
 <?php
 // array with names
-$a[] = "aviyudhistira";
-$a[] = "odettetank";
-$a[] = "kurnia";
+$a[] = "aawda";
+$a[] = "gg";
+$a[] = "kawdwa";
 $a[] = "farhan";
-$a[] = "asdaniel";
-$a[] = "toni";
+$a[] = "aawghtl";
+$a[] = "tfti";
 
 $q =$_REQUEST["q"];
 
