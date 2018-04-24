@@ -1,0 +1,37 @@
+<table>
+	<tr>
+		<td> Nama </td>
+		<td> NIM </td>
+		<td> kelas </td>
+	</tr>
+
+	<tr>
+		<td> Aviecenna Yudhistira </td>
+		<td> 1755301045 </td>
+		<td> 1 TI C </td>
+	</tr>
+
+		<tr>
+		<td> M.Farhan Adthiya </td>
+		<td> 1755301018 </td>
+		<td> 1 TI C </td>
+	</tr>
+
+	<tr>
+		<td> Kurnia Prijiandi </td>
+		<td>1755301069 </td>
+		<td> 1 TI C  </td>
+	</tr>
+
+	<tr>
+		<td> Yulia Sagita </td>
+		<td> 1755301102 </td>
+		<td> 1 TI C </td>
+	</tr>
+
+	<tr>
+		<td> Resti Haryani </td>
+		<td> 1755301095 </td>
+		<td> 1 TI C </td>
+	</tr>
+</table>
